@@ -1,0 +1,195 @@
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.exe.config
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.exe
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.pdb
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csprojResolveAssemblyReference.cache
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.Properties.Resources.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.DangKy.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.DangNhap.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.HoaDon.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.KhachHang.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.KHThanhToan.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.LoaiSan.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.MenuKH.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.MenuQL.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.SanBong.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TrangThaiSancs.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TTKhachHang.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.GenerateResource.Cache
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.exe
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.pdb
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TTQuanLy.resources
+E:\CNNet\BaoCao_Huy\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TK_HoaDon.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.exe.config
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.exe
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.pdb
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalQuartz.AspNetCore.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\FlashControlV71.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\log4net.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Buffers.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.IO.Pipelines.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Memory.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CRVsPackageLib.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\VsWebSite.Interop.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Collections.Immutable.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\EnvDTE.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\stdole.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\log4net.pdb
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\log4net.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Buffers.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.IO.Pipelines.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Memory.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.AssemblyReference.cache
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.exe.config
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.Properties.Resources.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.DangKy.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.DangNhap.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.HoaDon.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.KhachHang.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.KHThanhToan.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.LoaiSan.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.MenuKH.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.MenuQL.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.SanBong.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TK_HoaDon.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TrangThaiSancs.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TTKhachHang.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TTQuanLy.resources
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.GenerateResource.cache
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.CoreCompileInputs.cache
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySa.B4987262.Up2Date
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.exe
+C:\Users\khoat\OneDrive\Máy tính\qlsb\Code_QLSB\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.pdb
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.exe.config
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.exe
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\QuanLySanBong.pdb
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalQuartz.AspNetCore.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\FlashControlV71.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\log4net.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Buffers.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.IO.Pipelines.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Memory.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Numerics.Vectors.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CRVsPackageLib.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\VsWebSite.Interop.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Collections.Immutable.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\EnvDTE.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\stdole.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Newtonsoft.Json.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\log4net.pdb
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\log4net.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Buffers.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.IO.Pipelines.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Memory.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Numerics.Vectors.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.AssemblyReference.cache
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.SuggestedBindingRedirects.cache
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.exe.config
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.Properties.Resources.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.DangKy.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.DangNhap.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.HoaDon.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.KhachHang.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.KHThanhToan.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.LoaiSan.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.MenuKH.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.MenuQL.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.SanBong.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TK_HoaDon.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TrangThaiSancs.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TTKhachHang.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.View.TTQuanLy.resources
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.GenerateResource.cache
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySa.B4987262.Up2Date
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.exe
+D:\Kì 2 năm 2\Lập trình c#\QuanLySanBong\QuanLySanBong\obj\Debug\QuanLySanBong.pdb
