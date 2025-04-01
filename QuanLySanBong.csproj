@@ -14,7 +14,7 @@
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -116,22 +116,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Control\Control_HoaDon.cs" />
-    <Compile Include="Control\ConTrol_KhachHang.cs" />
-    <Compile Include="Control\Control_LoaiSan.cs" />
-    <Compile Include="Control\Control_San.cs" />
-    <Compile Include="Control\Control_SQL.cs" />
-    <Compile Include="Control\Control_TimSan.cs" />
+    <Compile Include="BLL\Control_HoaDon.cs" />
+    <Compile Include="BLL\ConTrol_KhachHang.cs" />
+    <Compile Include="BLL\Control_LoaiSan.cs" />
+    <Compile Include="BLL\Control_San.cs" />
+    <Compile Include="BLL\Control_SQL.cs" />
+    <Compile Include="BLL\Control_TimSan.cs" />
     <Compile Include="DataSet1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Moldel\Model_HoaDon.cs" />
-    <Compile Include="Moldel\Model_KhachHang.cs" />
-    <Compile Include="Moldel\Model_LoaiSan.cs" />
-    <Compile Include="Moldel\Model_San.cs" />
-    <Compile Include="Moldel\Model_TimSan.cs" />
+    <Compile Include="Entity\Model_HoaDon.cs" />
+    <Compile Include="Entity\Model_KhachHang.cs" />
+    <Compile Include="Entity\Model_LoaiSan.cs" />
+    <Compile Include="Entity\Model_San.cs" />
+    <Compile Include="Entity\Model_TimSan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -139,82 +139,82 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="View\DangKy.cs">
+    <Compile Include="GUI\DangKy.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\DangKy.designer.cs">
+    <Compile Include="GUI\DangKy.designer.cs">
       <DependentUpon>DangKy.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\DangNhap.cs">
+    <Compile Include="GUI\DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\DangNhap.Designer.cs">
+    <Compile Include="GUI\DangNhap.Designer.cs">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\HoaDon.cs">
+    <Compile Include="GUI\HoaDon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\HoaDon.Designer.cs">
+    <Compile Include="GUI\HoaDon.Designer.cs">
       <DependentUpon>HoaDon.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\KhachHang.cs">
+    <Compile Include="GUI\KhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\KhachHang.Designer.cs">
+    <Compile Include="GUI\KhachHang.Designer.cs">
       <DependentUpon>KhachHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\KHThanhToan.cs">
+    <Compile Include="GUI\KHThanhToan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\KHThanhToan.Designer.cs">
+    <Compile Include="GUI\KHThanhToan.Designer.cs">
       <DependentUpon>KHThanhToan.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\LoaiSan.cs">
+    <Compile Include="GUI\LoaiSan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\LoaiSan.designer.cs">
+    <Compile Include="GUI\LoaiSan.designer.cs">
       <DependentUpon>LoaiSan.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\MenuKH.cs">
+    <Compile Include="GUI\MenuKH.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\MenuKH.Designer.cs">
+    <Compile Include="GUI\MenuKH.Designer.cs">
       <DependentUpon>MenuKH.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\MenuQL.cs">
+    <Compile Include="GUI\MenuQL.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\MenuQL.Designer.cs">
+    <Compile Include="GUI\MenuQL.Designer.cs">
       <DependentUpon>MenuQL.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\SanBong.cs">
+    <Compile Include="GUI\SanBong.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\SanBong.designer.cs">
+    <Compile Include="GUI\SanBong.designer.cs">
       <DependentUpon>SanBong.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TK_HoaDon.cs">
+    <Compile Include="GUI\TK_HoaDon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\TK_HoaDon.Designer.cs">
+    <Compile Include="GUI\TK_HoaDon.Designer.cs">
       <DependentUpon>TK_HoaDon.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TrangThaiSancs.cs">
+    <Compile Include="GUI\TrangThaiSancs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\TrangThaiSancs.Designer.cs">
+    <Compile Include="GUI\TrangThaiSancs.Designer.cs">
       <DependentUpon>TrangThaiSancs.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TTKhachHang.cs">
+    <Compile Include="GUI\TTKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\TTKhachHang.Designer.cs">
+    <Compile Include="GUI\TTKhachHang.Designer.cs">
       <DependentUpon>TTKhachHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TTQuanLy.cs">
+    <Compile Include="GUI\TTQuanLy.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\TTQuanLy.Designer.cs">
+    <Compile Include="GUI\TTQuanLy.Designer.cs">
       <DependentUpon>TTQuanLy.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -222,43 +222,43 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\DangKy.resx">
+    <EmbeddedResource Include="GUI\DangKy.resx">
       <DependentUpon>DangKy.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\DangNhap.resx">
+    <EmbeddedResource Include="GUI\DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\HoaDon.resx">
+    <EmbeddedResource Include="GUI\HoaDon.resx">
       <DependentUpon>HoaDon.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\KhachHang.resx">
+    <EmbeddedResource Include="GUI\KhachHang.resx">
       <DependentUpon>KhachHang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\KHThanhToan.resx">
+    <EmbeddedResource Include="GUI\KHThanhToan.resx">
       <DependentUpon>KHThanhToan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\LoaiSan.resx">
+    <EmbeddedResource Include="GUI\LoaiSan.resx">
       <DependentUpon>LoaiSan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\MenuKH.resx">
+    <EmbeddedResource Include="GUI\MenuKH.resx">
       <DependentUpon>MenuKH.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\MenuQL.resx">
+    <EmbeddedResource Include="GUI\MenuQL.resx">
       <DependentUpon>MenuQL.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\SanBong.resx">
+    <EmbeddedResource Include="GUI\SanBong.resx">
       <DependentUpon>SanBong.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TK_HoaDon.resx">
+    <EmbeddedResource Include="GUI\TK_HoaDon.resx">
       <DependentUpon>TK_HoaDon.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TrangThaiSancs.resx">
+    <EmbeddedResource Include="GUI\TrangThaiSancs.resx">
       <DependentUpon>TrangThaiSancs.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TTKhachHang.resx">
+    <EmbeddedResource Include="GUI\TTKhachHang.resx">
       <DependentUpon>TTKhachHang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TTQuanLy.resx">
+    <EmbeddedResource Include="GUI\TTQuanLy.resx">
       <DependentUpon>TTQuanLy.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="DataSet1.xsc">
